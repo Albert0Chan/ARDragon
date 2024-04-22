@@ -1,0 +1,8 @@
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/projeto/ARtest/.utmp/Debug/2v155j1a/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
